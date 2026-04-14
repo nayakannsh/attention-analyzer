@@ -130,8 +130,3 @@ attention-analyzer-ai/
 
 Developed as part of an AI & ML certification project.
 
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub and feel free to explore!
